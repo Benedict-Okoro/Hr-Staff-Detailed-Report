@@ -9,6 +9,9 @@
 ### Project Overview
 ###### This project presents a comprehensive HR Analytics Dashboard built using Power BI, aimed at helping HR teams make data-driven decisions. It covers insights on gender, job satisfaction, departmental distribution, and employment trends.
 
+![HR Staff Detailed Report](https://github.com/user-attachments/assets/56342dad-ef18-4e68-af04-2766fb31bc37)
+
+
 ### Data Sources
 ###### The data was gotten from the organization HR data base this was then realeased to my by quantum analytic.
 
